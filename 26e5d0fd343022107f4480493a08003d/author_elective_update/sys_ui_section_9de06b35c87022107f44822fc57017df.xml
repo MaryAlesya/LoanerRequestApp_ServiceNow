@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Statistics" section_id="9de06b35c87022107f44822fc57017df" sys_domain="global" table="x_cdltd_loaner_req_loaner_request" version="3" view="ESS">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 06:29:03</sys_created_on>
+            <sys_id>21e0ab35c87022107f44822fc570174f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 06:29:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 06:29:03</sys_created_on>
+            <sys_id>a5e0ab35c87022107f44822fc570174f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 06:29:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 06:29:03</sys_created_on>
+            <sys_id>2de0ab35c87022107f44822fc570174f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 06:29:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 06:29:03</sys_created_on>
+            <sys_id>a1e0ab35c87022107f44822fc5701750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 06:29:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 06:29:03</sys_created_on>
+            <sys_id>29e0ab35c87022107f44822fc5701750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 06:29:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 06:29:03</sys_created_on>
+            <sys_id>ade0ab35c87022107f44822fc5701750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 06:29:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 06:29:03</sys_created_on>
+            <sys_id>25e0ab35c87022107f44822fc5701751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 06:29:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 06:29:03</sys_created_on>
+            <sys_id>a9e0ab35c87022107f44822fc5701751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 06:29:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Statistics</caption>
+            <header>false</header>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-10 06:29:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9de06b35c87022107f44822fc57017df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_loaner_req_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">26e5d0fd343022107f4480493a08003d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">26e5d0fd343022107f4480493a08003d</sys_scope>
+            <sys_update_name>sys_ui_section_9de06b35c87022107f44822fc57017df</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-10 06:29:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">e2c79150612102107f445d198ce69d7a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">26e5d0fd343022107f4480493a08003d</application>
+        <file_path/>
+        <instance_id>c3d4b4199734ae500b9b74b71153af99</instance_id>
+        <instance_name>nowlearning-nlinst02680476-7m9bc-0001</instance_name>
+        <name>sys_ui_section_9de06b35c87022107f44822fc57017df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Statistics" section_id="9de06b35c87022107f44822fc57017df" sys_domain="global" table="x_cdltd_loaner_req_loaner_request" version="3" view="ESS"><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_at</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 06:29:03</sys_created_on><sys_id>21e0ab35c87022107f44822fc570174f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 06:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_on</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 06:29:03</sys_created_on><sys_id>a5e0ab35c87022107f44822fc570174f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 06:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>closed_at</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 06:29:03</sys_created_on><sys_id>2de0ab35c87022107f44822fc570174f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 06:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 06:29:03</sys_created_on><sys_id>a1e0ab35c87022107f44822fc5701750</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 06:29:03</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_by</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 06:29:03</sys_created_on><sys_id>29e0ab35c87022107f44822fc5701750</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 06:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_by</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 06:29:03</sys_created_on><sys_id>ade0ab35c87022107f44822fc5701750</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 06:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>closed_by</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 06:29:03</sys_created_on><sys_id>25e0ab35c87022107f44822fc5701751</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 06:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 06:29:03</sys_created_on><sys_id>a9e0ab35c87022107f44822fc5701751</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="e2c79150612102107f445d198ce69d7a">9de06b35c87022107f44822fc57017df</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 06:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Statistics</caption><header>false</header><name>x_cdltd_loaner_req_loaner_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-10 06:29:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9de06b35c87022107f44822fc57017df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_loaner_req_loaner_request</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">26e5d0fd343022107f4480493a08003d</sys_package><sys_policy/><sys_scope display_value="Loaner Request">26e5d0fd343022107f4480493a08003d</sys_scope><sys_update_name>sys_ui_section_9de06b35c87022107f44822fc57017df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-10 06:29:02</sys_updated_on><sys_user/><title>false</title><view display_value="Self Service" name="ess">e2c79150612102107f445d198ce69d7a</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>136616132</payload_hash>
+        <record_name>Loaner Request</record_name>
+        <reverted_from/>
+        <source>c3ff543d347022107f4480493a0800f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-10 06:29:03</sys_created_on>
+        <sys_id>25e0ab35c87022107f44822fc5701779</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1961e6343340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-10 06:29:03</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a9e0ab3516702210fd7b3719404f7f78</update_guid>
+        <update_guid_history>a9e0ab3516702210fd7b3719404f7f78:136616132</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-10 06:30:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>c175fde3bf194b8a8113b75f417169c4</sys_id>
+        <sys_metadata>9de06b35c87022107f44822fc57017df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Statistics</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">26e5d0fd343022107f4480493a08003d</sys_package>
+        <sys_parent display_value="Loaner Request">2a07d831347022107f4480493a08006c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">26e5d0fd343022107f4480493a08003d</sys_scope>
+        <sys_scope_delete display_value="">6c4e984987304c2099fbafefb4dce890</sys_scope_delete>
+        <sys_update_name>sys_ui_section_9de06b35c87022107f44822fc57017df</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_9de06b35c87022107f44822fc57017df">25e0ab35c87022107f44822fc5701779</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-10 06:30:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
