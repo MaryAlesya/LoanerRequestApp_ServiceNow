@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>true</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
         <ide_created>DS</ide_created>
@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_cdltd_loaner_req</source>
-        <store_correlation_id>REPOAPP0000002250</store_correlation_id>
+        <store_correlation_id>REPOAPP0000002251</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,16 +32,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-04-09 15:42:11</sys_created_on>
         <sys_id>26e5d0fd343022107f4480493a08003d</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-11 11:17:26</sys_updated_on>
+        <sys_updated_on>2025-04-13 09:57:26</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>4.0.0</version>
+        <version>5.0.0</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=26e5d0fd343022107f4480493a08003d"/>
 </record_update>
